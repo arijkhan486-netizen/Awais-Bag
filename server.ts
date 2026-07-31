@@ -2,8 +2,8 @@ import express from 'express';
 import fs from 'fs';
 import path from 'path';
 import { createServer as createViteServer } from 'vite';
-import { INITIAL_PRODUCTS } from './src/data/initialProducts';
-import { Order, Product, StoreSettings } from './src/types';
+import { INITIAL_PRODUCTS } from './initialProducts';       
+import { Order, Product, StoreSettings } from './types';
 
 const app = express();
 const PORT = 3000;
