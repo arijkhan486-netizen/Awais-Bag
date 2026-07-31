@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Store & Admin Portal",
+  "description": "Full e-commerce platform with product listing, cart, checkout (COD & WhatsApp), and password-protected admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
